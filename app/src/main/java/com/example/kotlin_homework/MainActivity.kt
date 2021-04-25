@@ -45,6 +45,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 }
+
     fun initMonth(month: Int=3){
         when(month){
             1-> print("Зима")
